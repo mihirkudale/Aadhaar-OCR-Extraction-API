@@ -48,7 +48,7 @@ pip install flask opencv-python-headless pytesseract numpy pdf2image requests ce
 ## Running the API
 
 ```bash
-python app.py
+python ocrapp.py
 ```
 
 The server will start at:
