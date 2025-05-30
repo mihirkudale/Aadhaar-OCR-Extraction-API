@@ -97,7 +97,7 @@ The server will start at:
 
 * The accuracy depends on PDF quality. Noisy, low-res, or scanned PDFs may produce less accurate results.
 * The API deletes the downloaded PDF after processing.
-* Currently supports **URL input only**. For file upload support
+* Currently supports **URL input only**.
 
 ---
 
